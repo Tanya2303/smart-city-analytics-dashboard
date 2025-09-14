@@ -16,3 +16,17 @@ smart-city-analytics-dashboard/
 - Clean and store data in MySQL
 - Interactive React dashboard for visualization
 - API built using Flask
+- Analyze traffic congestion patterns
+- View KPIs and forecasts
+- Generate insights for policy making
+
+## Tech Stack
+- Frontend: React, Tailwind, Recharts
+- Backend: Flask (Python)
+- Database: MySQL
+- Data Pipeline: Python (Pandas, NumPy)
+
+## Data Sources
+- OpenWeather API
+- OpenAQ API
+- Kaggle Traffic Dataset
